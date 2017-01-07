@@ -25,7 +25,7 @@ public class KodiUpdater extends Updater
     private String mUpdateUrl = "http://mirrors.kodi.tv/releases/android/arm/";
 
     /** Update URL for nightly versions */
-    private String mUpdateUrlNightly = "http://mirrors.kodi.tv/nightlies/android/arm/";
+    private String mUpdateUrlNightly = "http://mirrors.kodi.tv/nightlies/android/arm/Krypton/";
 
     /** Current context */
     private Context mContext;
